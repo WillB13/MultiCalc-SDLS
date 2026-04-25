@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williambria/Downloads/CSE210-Hw/csharp-prep/Prep1/Prep1.csproj",
+      "projectUniqueName": "/Users/williambria/Downloads/CSE210/cse210_Projects/Prep1.csproj",
       "projectName": "Prep1",
-      "projectPath": "/Users/williambria/Downloads/CSE210-Hw/csharp-prep/Prep1/Prep1.csproj",
+      "projectPath": "/Users/williambria/Downloads/CSE210/cse210_Projects/Prep1.csproj",
       "packagesPath": "/Users/williambria/.nuget/packages/",
-      "outputPath": "/Users/williambria/Downloads/CSE210-Hw/csharp-prep/Prep1/obj/",
+      "outputPath": "/Users/williambria/Downloads/CSE210/cse210_Projects/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/williambria/.nuget/NuGet/NuGet.Config"
