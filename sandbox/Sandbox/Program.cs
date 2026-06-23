@@ -1,17 +1,17 @@
 using System;
 
-class Angle
 {
     public static void Main(string[] args)
-    private double _radians;
-
-    public double GetRadians()
     {
-        return _radians;
-    }
+        for (int i = 0; i < 20; i++);
+        {
+            Console.WriteLine("+");
+            Thread.Sleep(250);
+            Console.Write("\b");
+            Console.Write("-");
+            Thread.Sleep(250);
+            Console.Write("\b");
+        }
 
-    public void SetRadians(double radians)
-    {
-        _radians = radians;
     }
 }
